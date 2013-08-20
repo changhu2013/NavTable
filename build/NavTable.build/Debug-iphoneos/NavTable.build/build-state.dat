@@ -1,0 +1,188 @@
+TNavTable
+v7
+r1
+cCheck dependencies
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/Classes/DisclosureDetailController.xib
+c000000004C8CFB3A0000000000001E01
+t1284307770
+s7681
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/Images/button_down.png
+c0000000049EF82000000000000000C6D
+t1240433152
+s3181
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/Images/button_up.png
+c0000000049EF82000000000000000CDA
+t1240433152
+s3290
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/Images/checkmarkControllerIcon.png
+c0000000049EF82000000000000000226
+t1240433152
+s550
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/Images/deleteMeIcon.png
+c0000000049EF82000000000000000ED0
+t1240433152
+s3792
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/Images/detailEditIcon.png
+c0000000049EF82000000000000000CAD
+t1240433152
+s3245
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/Images/disclosureButtonControllerIcon.png
+c0000000049EF8200000000000000138B
+t1240433152
+s5003
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/Images/moveMeIcon.png
+c0000000049EF82000000000000000CE6
+t1240433152
+s3302
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/Images/rowControlsIcon.png
+c0000000049EF820000000000000001D6
+t1240433152
+s470
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/MainWindow.xib
+c000000004C8CD0380000000000002F44
+t1284296760
+s12100
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/RootViewController.xib
+c000000004C8CD0380000000000004453
+t1284296760
+s17491
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/DisclosureDetailController.nib
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/Info.plist
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/MainWindow.nib
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/PkgInfo
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/RootViewController.nib
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/button_down.png
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/button_up.png
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/checkmarkControllerIcon.png
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/computers.plist
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/deleteMeIcon.png
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/detailEditIcon.png
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/disclosureButtonControllerIcon.png
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/moveMeIcon.png
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/rowControlsIcon.png
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/teamdictionary.plist
+t2
+s0
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/computers.plist
+c0000000049EF82000000000000002271
+t1240433152
+s8817
+
+N/Users/tony/Documents/iPhone课件/代码/07/NavTable/teamdictionary.plist
+c000000004C840B0200000000000005D1
+t1283721986
+s1489
+
+NNavTable-Info.plist
+c000000004C8CD038000000000000038D
+t1284296760
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324885713#324885713#0(185"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1.3'[BWARN]warning: Build setting "iOS Deployment Target" should not be empty (current IPHONEOS_DEPLOYMENT_TARGET = "").2(4@60"error: There is no SDK with the name or path 'iphoneos3.1.3'324885713#18446744073709551615#0#0(1@0"0(22@109"warning: Build setting "iOS Deployment Target" should not be empty (current IPHONEOS_DEPLOYMENT_TARGET = "").324885713#18446744073709551615#0#0(1@0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileXIB /Users/tony/Documents/iPhone课件/代码/07/NavTable/Classes/DisclosureDetailController.xib
+r0
+
+CCompileXIB /Users/tony/Documents/iPhone课件/代码/07/NavTable/MainWindow.xib
+r0
+
+CCompileXIB /Users/tony/Documents/iPhone课件/代码/07/NavTable/RootViewController.xib
+r0
+
+CCopyPNGFile /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/button_down.png Images/button_down.png
+r0
+
+CCopyPNGFile /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/button_up.png Images/button_up.png
+r0
+
+CCopyPNGFile /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/checkmarkControllerIcon.png Images/checkmarkControllerIcon.png
+r0
+
+CCopyPNGFile /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/deleteMeIcon.png Images/deleteMeIcon.png
+r0
+
+CCopyPNGFile /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/detailEditIcon.png Images/detailEditIcon.png
+r0
+
+CCopyPNGFile /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/disclosureButtonControllerIcon.png Images/disclosureButtonControllerIcon.png
+r0
+
+CCopyPNGFile /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/moveMeIcon.png Images/moveMeIcon.png
+r0
+
+CCopyPNGFile /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/rowControlsIcon.png Images/rowControlsIcon.png
+r0
+
+CCopyPlistFile /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/computers.plist computers.plist
+r0
+
+CCopyPlistFile /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/teamdictionary.plist teamdictionary.plist
+r0
+
+CProcessInfoPlistFile /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app/Info.plist NavTable-Info.plist
+r0
+
+CTouch /Users/tony/Documents/iPhone课件/代码/07/NavTable/build/Debug-iphoneos/NavTable.app
+r0
+

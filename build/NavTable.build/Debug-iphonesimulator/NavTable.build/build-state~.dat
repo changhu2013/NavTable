@@ -1,0 +1,247 @@
+TNavTable
+v7
+r0
+t305989992.405636
+cCheck dependencies
+cProcessInfoPlistFile "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/Info.plist" NavTable-Info.plist
+cCompileXIB "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/MainWindow.xib"
+cCompileXIB "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/RootViewController.xib"
+cProcessPCH /var/folders/Zs/Zsc285YQFOWdKwsV8NjkiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavTable_Prefix-akwpwcuspbgfvmadgheibiwndzou/NavTable_Prefix.pch.gch NavTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/main.o "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/NavTableAppDelegate.o "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/RootViewController.o "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.h
+c000000004C8CD03900000000000001CE
+t1284296761
+s462
+i<UIKit/UIKit.h>
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.m
+c000000004C8CD0390000000000000364
+t1284296761
+s868
+i"NavTableAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.h
+c000000004C8CD1E6000000000000012E
+t1284297190
+s302
+i<UIKit/UIKit.h>
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m
+c000000004C8CD03900000000000010BC
+t1284296761
+s4284
+i"RootViewController.h"
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/MainWindow.xib
+c000000004C8CD0390000000000002F44
+t1284296761
+s12100
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/NavTable_Prefix.pch
+c000000004C8CD0390000000000000142
+t1284296761
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/RootViewController.xib
+c000000004C8CD0390000000000004453
+t1284296761
+s17491
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app
+t2
+s0
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app.dSYM
+t2
+s0
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/Info.plist
+t1284297190
+s597
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/MainWindow.nib
+t1284297191
+s2028
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/NavTable
+t2
+s0
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/PkgInfo
+t1284297190
+s8
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/RootViewController.nib
+t1284297191
+s1389
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/NavTable.LinkFileList
+c000000004C8CD1E600000000000001B8
+t1284297190
+s440
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/NavTableAppDelegate.o
+t2
+s0
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/RootViewController.o
+t2
+s0
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/main.o
+t1284297192
+s5976
+
+N/Users/tony/Documents/iPhone PPT/代码/07/NavTable/main.m
+c000000004C8CD0390000000000000162
+t1284296761
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/Zs/Zsc285YQFOWdKwsV8NjkiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavTable_Prefix-akwpwcuspbgfvmadgheibiwndzou/NavTable_Prefix.pch.gch
+t1284297192
+s13026768
+
+NNavTable-Info.plist
+c000000004C8CD039000000000000038D
+t1284296761
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305989990#305989990#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/NavTableAppDelegate.o "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s305989992.222676
+e305989992.344658
+r0
+xCompileC
+xbuild/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/NavTableAppDelegate.o
+x/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.m:10:
+o/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.h:13: error: expected ';' before '}' token
+lSLF07#2@89"Compile /Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.m305989992#305989992#0(230"In file included from /Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.m:10:/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.h:13: error: expected ';' before '}' token1(4@29"Expected ';' before '}' token305989992#104#118#2(7@103"In file included from /Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.m305989992#18446744073709551615#0#0(6@81"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.m305989561#10#0#10#0#0"0(13@113"Expected ';' before '}' token in /Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.h305989992#18446744073709551615#0#0(6@80"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.h305989990#13#0#13#0#0"0(6@80"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.h305989990#13#0#13#0#19"expected * before *0(0#0#81"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.m4300911832#2082"    cd "/Users/tony/Documents/iPhone PPT/代码/07/NavTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-generated-files.hmap" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-own-target-headers.hmap" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-all-target-headers.hmap" -iquote "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-project-headers.hmap" "-F/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/include" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/DerivedSources/i386" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/DerivedSources" -include /var/folders/Zs/Zsc285YQFOWdKwsV8NjkiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavTable_Prefix-akwpwcuspbgfvmadgheibiwndzou/NavTable_Prefix.pch -c "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/NavTableAppDelegate.m" -o "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/NavTableAppDelegate.o"1#
+
+CCompileC build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/RootViewController.o "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s305989992.344758
+e305989992.405355
+r0
+xCompileC
+xbuild/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/RootViewController.o
+x/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m:9:
+o/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.h:13: error: expected ';' before '}' token
+o/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m:164: warning: property 'controllers' requires method '-controllers' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m:164: warning: property 'controllers' requires the method 'setControllers:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@88"Compile /Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m305989992#305989992#0(687"In file included from /Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m:9:/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.h:13: error: expected ';' before '}' token/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m:164: warning: property 'controllers' requires method '-controllers' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m:164: warning: property 'controllers' requires the method 'setControllers:' to be defined - use @synthesize, @dynamic or provide a method implementation3(4@29"Expected ';' before '}' token305989992#102#118#2(7@102"In file included from /Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m305989992#18446744073709551615#0#0(6@80"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m305989561#9#0#9#0#0"0(13@113"Expected ';' before '}' token in /Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.h305989992#18446744073709551615#0#0(6@80"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.h305989990#13#0#13#0#0"0(6@80"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.h305989990#13#0#13#0#19"expected * before *0(22@130"Property 'controllers' requires method '-controllers' to be defined - use @synthesize, @dynamic or provide a method implementation305989992#220#222#0(6@80"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m305989561#164#0#164#0#0"0(22@137"Property 'controllers' requires the method 'setControllers:' to be defined - use @synthesize, @dynamic or provide a method implementation305989992#442#229#0(6@80"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m305989561#164#0#164#0#0"0(0#0#80"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m4300911832#2080"    cd "/Users/tony/Documents/iPhone PPT/代码/07/NavTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-generated-files.hmap" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-own-target-headers.hmap" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-all-target-headers.hmap" -iquote "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-project-headers.hmap" "-F/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/include" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/DerivedSources/i386" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/DerivedSources" -include /var/folders/Zs/Zsc285YQFOWdKwsV8NjkiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavTable_Prefix-akwpwcuspbgfvmadgheibiwndzou/NavTable_Prefix.pch -c "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/Classes/RootViewController.m" -o "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/RootViewController.o"1#
+
+CCompileC build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/main.o "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s305989992.221337
+e305989992.351475
+r1
+xCompileC
+xbuild/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/main.o
+x/Users/tony/Documents/iPhone PPT/代码/07/NavTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/tony/Documents/iPhone PPT/代码/07/NavTable/main.m305989992#305989992#0(0"0(0#0#58"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/main.m4300911832#2044"    cd "/Users/tony/Documents/iPhone PPT/代码/07/NavTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-generated-files.hmap" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-own-target-headers.hmap" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-all-target-headers.hmap" -iquote "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-project-headers.hmap" "-F/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/include" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/DerivedSources/i386" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/DerivedSources" -include /var/folders/Zs/Zsc285YQFOWdKwsV8NjkiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavTable_Prefix-akwpwcuspbgfvmadgheibiwndzou/NavTable_Prefix.pch -c "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/main.m" -o "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/MainWindow.xib"
+s305989990.935494
+e305989991.273147
+r1
+xCompileXIB
+x/Users/tony/Documents/iPhone PPT/代码/07/NavTable/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib305989990#305989991#0(0"0(0#0#66"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/MainWindow.xib4300911832#528"    cd "/Users/tony/Documents/iPhone PPT/代码/07/NavTable"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/MainWindow.nib" "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/MainWindow.xib"0#
+
+CCompileXIB "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/RootViewController.xib"
+s305989990.937296
+e305989991.269956
+r1
+xCompileXIB
+x/Users/tony/Documents/iPhone PPT/代码/07/NavTable/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib305989990#305989991#0(0"0(0#0#74"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/RootViewController.xib4300911832#544"    cd "/Users/tony/Documents/iPhone PPT/代码/07/NavTable"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/RootViewController.nib" "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/RootViewController.xib"0#
+
+CGenerateDSYMFile "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app.dSYM" "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/NavTable"
+r0
+
+CLd "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/NavTable" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/Info.plist" NavTable-Info.plist
+s305989990.911596
+e305989990.935377
+r1
+xProcessInfoPlistFile
+x/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/Info.plist
+xNavTable-Info.plist
+lSLF07#2@27"Process NavTable-Info.plist305989990#305989990#0(0"0(0#0#71"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/NavTable-Info.plist27584964334977144#527"    cd "/Users/tony/Documents/iPhone PPT/代码/07/NavTable"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NavTable-Info.plist -genpkginfo "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app/Info.plist"0#
+
+CProcessPCH /var/folders/Zs/Zsc285YQFOWdKwsV8NjkiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavTable_Prefix-akwpwcuspbgfvmadgheibiwndzou/NavTable_Prefix.pch.gch NavTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305989991.273279
+e305989992.221135
+r1
+xProcessPCH
+x/var/folders/Zs/Zsc285YQFOWdKwsV8NjkiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavTable_Prefix-akwpwcuspbgfvmadgheibiwndzou/NavTable_Prefix.pch.gch
+xNavTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile NavTable_Prefix.pch305989991#305989992#0(0"0(0#0#71"/Users/tony/Documents/iPhone PPT/代码/07/NavTable/NavTable_Prefix.pch7011593842749432832#1920"    cd "/Users/tony/Documents/iPhone PPT/代码/07/NavTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-generated-files.hmap" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-own-target-headers.hmap" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-all-target-headers.hmap" -iquote "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/NavTable-project-headers.hmap" "-F/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/include" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/DerivedSources/i386" "-I/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/NavTable.build/Debug-iphonesimulator/NavTable.build/DerivedSources" -c "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/NavTable_Prefix.pch" -o /var/folders/Zs/Zsc285YQFOWdKwsV8NjkiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavTable_Prefix-akwpwcuspbgfvmadgheibiwndzou/NavTable_Prefix.pch.gch0#
+
+CTouch "/Users/tony/Documents/iPhone PPT/代码/07/NavTable/build/Debug-iphonesimulator/NavTable.app"
+r0
+
